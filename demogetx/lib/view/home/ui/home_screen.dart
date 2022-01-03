@@ -1,8 +1,8 @@
-import 'package:demogetx/ui/home_controller.dart';
+import 'package:demogetx/view/home/controller/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'detail.dart';
+import '../../detail_home/detail_ui/detail.dart';
 class HomeScreen extends GetWidget<HomeController> {
 
  HomeController controller = Get.put(HomeController());

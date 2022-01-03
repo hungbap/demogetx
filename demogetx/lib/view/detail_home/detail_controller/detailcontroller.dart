@@ -1,7 +1,7 @@
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 
-import 'basecontroller.dart';
+import '../../../utils/basecontroller.dart';
 
 class detailController extends BaseController{
   var one;

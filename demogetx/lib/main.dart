@@ -1,4 +1,4 @@
-import 'package:demogetx/ui/home_screen.dart';
+import 'package:demogetx/view/home/ui/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

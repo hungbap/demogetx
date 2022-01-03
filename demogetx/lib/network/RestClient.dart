@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:retrofit/http.dart';
-import 'auto.dart';
+import '../model/auto.dart';
 part 'RestClient.g.dart';
 
 @RestApi()

@@ -1,11 +1,11 @@
 import 'package:demogetx/model/auto.dart';
-import 'package:demogetx/ui/basecontroller.dart';
-import 'package:demogetx/ui/detail.dart';
+import 'package:demogetx/utils/basecontroller.dart';
+import 'package:demogetx/view/detail_home/detail_ui/detail.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
 import 'package:get/get_rx/src/rx_types/rx_types.dart';
 
-import 'enum.dart';
+import '../../../resource/enum.dart';
 
 class HomeController extends BaseController{
 

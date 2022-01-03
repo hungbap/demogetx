@@ -1,4 +1,4 @@
-import 'package:demogetx/ui/detailcontroller.dart';
+import 'package:demogetx/view/detail_home/detail_controller/detailcontroller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
